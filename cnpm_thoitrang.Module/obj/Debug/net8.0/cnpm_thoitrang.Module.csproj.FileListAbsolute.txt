@@ -1,0 +1,12 @@
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.csproj.AssemblyReference.cache
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.AssemblyInfoInputs.cache
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.AssemblyInfo.cs
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.csproj.CoreCompileInputs.cache
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\bin\Debug\net8.0\cnpm_thoitrang.Module.deps.json
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\bin\Debug\net8.0\cnpm_thoitrang.Module.dll
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\bin\Debug\net8.0\cnpm_thoitrang.Module.pdb
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.dll
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\refint\cnpm_thoitrang.Module.dll
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\cnpm_thoitrang.Module.pdb
+C:\Users\lapto\source\repos\cnpm-thoitrang\cnpm_thoitrang.Module\obj\Debug\net8.0\ref\cnpm_thoitrang.Module.dll

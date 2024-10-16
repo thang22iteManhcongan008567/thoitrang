@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ThoiTrang">
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
+  </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="@070deec7-5e7b-4cf4-850b-15585698766a" Caption="Quan Li" ImageName="BO_Customer" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="@c07fc524-5733-4c58-969f-0cff0795067e" ViewId="Shop_Order_ListView" IsNewNode="True" />
+          <Item Id="@d326674e-2c5c-4b8b-893a-d37bea8394da" ViewId="Product_ListView" IsNewNode="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <ListView Id="Product_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+    <ListView Id="Shop_Order_Shop_Order_Details_ListView" AllowEdit="True" NewItemRowPosition="Top" />
+  </Views>
+</Application>
